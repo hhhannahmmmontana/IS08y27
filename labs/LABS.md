@@ -1,13 +1,13 @@
 # Лабы от Миши
-- 1
-- 2
-- 3
-- 4
-- 5
-- 6
-- 7
-- 8
-- 9
-- 10
-- 11
-- 12
+- [Лаба 1](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LAB1.md)
+- [Лаба 2](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LAB2.md)
+- [Лаба 3](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LAB3.md)
+- [Лаба 4](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LAB4.md)
+- [Лаба 5](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LAB5.md)
+- [Лаба 6](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LAB6.md)
+- [Лаба 7](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LAB7.md)
+- [Лаба 8](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LAB8.md)
+- [Лаба 9](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LAB9.md)
+- [Лаба 10](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LAB10.md)
+- [Лаба 11](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LAB11.md)
+- [Лаба 12](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LAB12.md)

@@ -3,5 +3,6 @@
 - [Учебники](https://github.com/hhhannahmmmontana/IS08y27/tree/main/studentbooks/STUDENTBOOKS.md)
 - Файлы
 - Ссылки
+- Лекции
 - [Лабы по проге 1 курс (от Мишани)](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LABS.md)
 - Возможно анекдоты

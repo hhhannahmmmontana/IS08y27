@@ -4,4 +4,4 @@
 - Файлы
 - Ссылки
 - Возможно анекдоты
-- Лабы по проге 1 курс (от Мишани)
+- [Лабы по проге 1 курс (от Мишани)](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LABS.md)

@@ -1,7 +1,9 @@
 # ТГ-каналы и группы
 ### ТГ-каналы
-- [Новостной канал нашей группы](https://t.me/+gpd7MYRWdVcwMDhi)
+- [**Новостной канал нашей группы**](https://t.me/+gpd7MYRWdVcwMDhi)
 - [ИТМОЛНИЯ (новости вуза)](https://t.me/itmolnia)
+- [Технопарк ИТМО](https://t.me/tpitmo)
+- [ITMO.Careers](https://t.me/careercentreitmo)
 
 ### Группы
 - [Группа по дискре](https://t.me/+OrbZiMOC8s5iOWMy)

@@ -3,6 +3,6 @@
 - [Учебники](https://github.com/hhhannahmmmontana/IS08y27/tree/main/studentbooks/STUDENTBOOKS.md)
 - [Файлы](https://github.com/hhhannahmmmontana/IS08y27/blob/main/files/FILES.md)
 - [Ссылки](https://github.com/hhhannahmmmontana/IS08y27/blob/main/links/LINKS.md)
-- Лекции
+- [Лекции](https://github.com/hhhannahmmmontana/IS08y27/blob/main/lectures/LECTURES.md)
 - [Лабы по проге 1 курс (от Мишани)](https://github.com/hhhannahmmmontana/IS08y27/blob/main/labs/LABS.md)
 - Возможно анекдоты

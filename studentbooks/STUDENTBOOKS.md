@@ -6,7 +6,7 @@
 - _Герберт Шилдт_ - [Полный справочник по C++](https://github.com/hhhannahmmmontana/IS08y27/blob/main/studentbooks/polnyj_spravochnik_po_c-gerbert_shildt-2006.pdf)
 - _Грэди Буч_ - [Объектно-ориентированный анализ и проектирование](https://github.com/hhhannahmmmontana/IS08y27/blob/main/studentbooks/%5BGradi_Buch%5D_Obektno-orientirovannuei_analiz_i_pro(BookSee.org).pdf)
 
-> Еще Хвастунович рекомендовал следующих авторов:
+> Еще Хвастунов рекомендовал следующих авторов:
 > * **Скотт Мейерс**<br>
 > * **Андрей Александреску**<br>
 > * **Герб Саттер**

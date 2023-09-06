@@ -22,3 +22,4 @@
 ### Другие ссылки
 1. [Презентация со знакомства](https://clck.ru/35ZEHA)
 2. [Ноушн по ДМ и алгосам](https://intriguing-witness-64d.notion.site/23-24-dd108dce5ad74200a1a9f15f1bdf4f42)
+3. [Вообще всё (лекции, рейтинги и др) по дискре и алгосам (из ноушна)](https://drive.google.com/drive/folders/13F_NJlzj9HTAYUsJq216HKXeNnoGVDxZ)

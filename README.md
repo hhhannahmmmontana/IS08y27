@@ -1,4 +1,5 @@
-# Кладезь знаний лучшей группы ИС-а (восьмой)
+# Кладезь знаний 08y27
+## Передаем в надежные руки 18y28. Основная инфа в [ссылках!](https://github.com/hhhannahmmmontana/IS08y27/blob/main/links/LINKS.md)
 **Тут ты встретишь:**
 - [Учебники](https://github.com/hhhannahmmmontana/IS08y27/tree/main/studentbooks/STUDENTBOOKS.md)
 - [Файлы](https://github.com/hhhannahmmmontana/IS08y27/blob/main/files/FILES.md)

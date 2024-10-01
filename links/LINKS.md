@@ -27,6 +27,9 @@
 7. [Ноушен по спецразделам](https://alllioooooo.notion.site/a5169475cb9a40498581dca9efffafbc?pvs=4)
 8. [Билеты матан (примерно то, что будет у вас на экзе)](https://docs.google.com/document/d/1jYp5O_jtVF_5mIkz45OpU2WgQw9yLfp2ZLjaHDTY9s4/edit?usp=sharing)
 
+#### ИСРПО
+1. [Что может быть лучше готовых лаб? Держите](https://github.com/soilow/ISRPO_Labs)
+
 
 ### Другие ссылки
 1. [Презентация со знакомства 08y27](https://clck.ru/35ZEHA)
